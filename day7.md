@@ -1,6 +1,6 @@
 # Day 7 — Claude AI Usage Strategy: The Right Model & Effort for Every Task
 
-> **Challenge:** 100 Days of AI Productivity  
+> **Challenge:** 60 Days of AI Productivity  
 > **Day:** 7  
 > **Topic:** How to use Claude models and effort settings like a pro — personalized for students who code, research, and build.
 
